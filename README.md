@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Rizal Maulana
 
 💻 I'm an Informatics Engineering student (7th semester)  
-🚀 Interested in Web Development, Data Analysis, and Software Engineering  
+🚀 Interested in Web Development, Data Analysis
 📚 Currently learning Laravel, CodeIgniter
 🌱 Open to internship opportunities and collaborations  
 
@@ -12,7 +12,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ---
 
