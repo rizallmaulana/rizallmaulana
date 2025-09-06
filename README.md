@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Rizz
+# Hi there 👋, I'm Rizal Maulana
 
 💻 I'm an Informatics Engineering student (7th semester)  
 🚀 Interested in Web Development, Data Analysis, and Software Engineering  
-📚 Currently learning Laravel, CodeIgniter, and TailwindCSS  
+📚 Currently learning Laravel, CodeIgniter
 🌱 Open to internship opportunities and collaborations  
 
 ---
@@ -17,12 +17,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Rizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizzmln&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizzmln&layout=compact&theme=radical)
+![Rizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizallmaulana&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizallmaulana&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leoriizz)
 
